@@ -1,7 +1,7 @@
 <h2 align="center"> Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.</h2>
 
 <p align="center" dir="auto">
-<img alt="Static Badge" src="https://img.dmclk.ru/s1920x1080q80/blog/61b86d61cfbb38002497165c-%D0%A7%D1%82%D0%BE_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D1%82%D1%8C_%D0%BE%D1%82_%D1%80%D1%8B%D0%BD%D0%BA%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_940%D1%85535px.png" width="800" height="300">
+<img alt="Static Badge" src="https://img.freepik.com/free-vector/real-estate-agency-property-selling-and-buying-financial-consulting_335657-3145.jpg?w=1380&t=st=1695230208~exp=1695230808~hmac=8bb2e4eb443d9cf2a49a5f9f217dcc24c456121f8e29fb1e99c2a760f88067fb" width="800" height="400">
 </p>
 
 <hr>
