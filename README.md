@@ -46,9 +46,18 @@
 </tr>
 <tr>
 <td>5</td>
-<td><a href="https://github.com/mynameis285/portfolio/tree/main/real%20estate%20market">Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
+<td><a href="https://github.com/mynameis285/portfolio/tree/main/real%20estate%20market">Анализ убытков приложения ProcrastinatePRO+</a></td>
 <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
 <td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>визуализация данных</code> <code>исследовательский анализ данных</code> <code>предобработка данных</code> </td>
+
+
+
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://github.com/mynameis285/portfolio/tree/main/analysis%20of%20business%20indicators">Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
+<td>Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Необходимо разобраться в причинах и помочь компании выйти в плюс.</td>
+<td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>визуализация данных</code> <code>когортный анализ</code> <code>продуктовые метрики</code> <code>рекомендации для отдела маркетинга</code> </td>
   
 
 
